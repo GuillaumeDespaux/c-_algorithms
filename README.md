@@ -24,7 +24,7 @@ Make sure you have the following installed:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd your-repo-name/src
     ```
 
 ### Usage
